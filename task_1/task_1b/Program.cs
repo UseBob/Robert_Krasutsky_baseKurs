@@ -6,7 +6,7 @@ uint randomUInt = 1123;
 float randomFloat = 14.34F;
 double randomDouble = 123.234D;
 
-randomLong= randomInt;
+randomLong= randomInt; 
 randomInt = randomSByte;
 Console.WriteLine($"Long-{randomLong};Int-{randomInt};");
 randomDouble = randomFloat;
