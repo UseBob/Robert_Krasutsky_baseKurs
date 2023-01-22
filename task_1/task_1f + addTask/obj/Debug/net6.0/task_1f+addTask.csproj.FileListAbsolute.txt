@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\bin\Debug\net6.0\task_1f+addTask.exe
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\bin\Debug\net6.0\task_1f+addTask.deps.json
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\bin\Debug\net6.0\task_1f+addTask.runtimeconfig.json
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\bin\Debug\net6.0\task_1f+addTask.dll
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\bin\Debug\net6.0\task_1f+addTask.pdb
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.AssemblyInfo.cs
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.dll
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\refint\task_1f+addTask.dll
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.pdb
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\task_1f+addTask.genruntimeconfig.cache
+C:\Users\rober\source\repos\BaseKurs\task_1\task_1f + addTask\obj\Debug\net6.0\ref\task_1f+addTask.dll
