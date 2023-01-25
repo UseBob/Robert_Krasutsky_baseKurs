@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\bin\Debug\net6.0\HypotenuseCalculated.exe
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\bin\Debug\net6.0\HypotenuseCalculated.deps.json
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\bin\Debug\net6.0\HypotenuseCalculated.runtimeconfig.json
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\bin\Debug\net6.0\HypotenuseCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\bin\Debug\net6.0\HypotenuseCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.AssemblyInfo.cs
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\refint\HypotenuseCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\HypotenuseCalculated.genruntimeconfig.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\task_2\obj\Debug\net6.0\ref\HypotenuseCalculated.dll
