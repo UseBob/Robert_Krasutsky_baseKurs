@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HypotenuseCalculated", "tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationCalculated", "MultiplicationCalculated\MultiplicationCalculated.csproj", "{D474CB9F-55E4-497D-9BA3-6958E847C016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{3DA7F583-34E0-48F8-A225-4B69C5E54741}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D474CB9F-55E4-497D-9BA3-6958E847C016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D474CB9F-55E4-497D-9BA3-6958E847C016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D474CB9F-55E4-497D-9BA3-6958E847C016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA7F583-34E0-48F8-A225-4B69C5E54741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA7F583-34E0-48F8-A225-4B69C5E54741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA7F583-34E0-48F8-A225-4B69C5E54741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA7F583-34E0-48F8-A225-4B69C5E54741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

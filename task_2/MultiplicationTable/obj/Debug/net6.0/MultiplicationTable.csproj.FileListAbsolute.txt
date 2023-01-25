@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.exe
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.deps.json
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.runtimeconfig.json
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\bin\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\refint\MultiplicationTable.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationTable\obj\Debug\net6.0\ref\MultiplicationTable.dll
