@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\bin\Debug\net6.0\MultiplicationCalculated.exe
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\bin\Debug\net6.0\MultiplicationCalculated.deps.json
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\bin\Debug\net6.0\MultiplicationCalculated.runtimeconfig.json
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\bin\Debug\net6.0\MultiplicationCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\bin\Debug\net6.0\MultiplicationCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.AssemblyInfo.cs
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\refint\MultiplicationCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\MultiplicationCalculated.genruntimeconfig.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\MultiplicationCalculated\obj\Debug\net6.0\ref\MultiplicationCalculated.dll
