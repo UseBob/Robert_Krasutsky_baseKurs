@@ -1,0 +1,15 @@
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\bin\Debug\net6.0\CreditContributionCalculated.exe
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\bin\Debug\net6.0\CreditContributionCalculated.deps.json
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\bin\Debug\net6.0\CreditContributionCalculated.runtimeconfig.json
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\bin\Debug\net6.0\CreditContributionCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\bin\Debug\net6.0\CreditContributionCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.AssemblyInfo.cs
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\refint\CreditContributionCalculated.dll
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.pdb
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\CreditContributionCalculated.genruntimeconfig.cache
+C:\Users\rober\source\repos\BaseKurs\task_2\CreditContributionCalculated\obj\Debug\net6.0\ref\CreditContributionCalculated.dll
