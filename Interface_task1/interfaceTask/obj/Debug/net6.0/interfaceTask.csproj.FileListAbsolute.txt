@@ -1,0 +1,15 @@
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\bin\Debug\net6.0\interfaceTask.exe
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\bin\Debug\net6.0\interfaceTask.deps.json
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\bin\Debug\net6.0\interfaceTask.runtimeconfig.json
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\bin\Debug\net6.0\interfaceTask.dll
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\bin\Debug\net6.0\interfaceTask.pdb
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.csproj.AssemblyReference.cache
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.AssemblyInfoInputs.cache
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.AssemblyInfo.cs
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.dll
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\refint\interfaceTask.dll
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.pdb
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\interfaceTask.genruntimeconfig.cache
+C:\Users\Мария\Documents\GitHub\Robert_Krasutsky_baseKurs\Interface_task1\interfaceTask\obj\Debug\net6.0\ref\interfaceTask.dll
