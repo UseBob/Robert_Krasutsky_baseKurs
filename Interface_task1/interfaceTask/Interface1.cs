@@ -14,9 +14,5 @@ namespace interfaceTask
         {
 
         }
-        public void Sound()
-        {
-
-        }
     }
 }

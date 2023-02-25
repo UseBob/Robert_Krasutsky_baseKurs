@@ -29,9 +29,5 @@ namespace interfaceTask
             Console.WriteLine($"Вы сделали пару ловких движений кистью вверх вниз " +
                 $"и инструмент издал невероятно мелодичный звук ");
         }
-        public void Sound()
-        {
-
-        }
     }
 }

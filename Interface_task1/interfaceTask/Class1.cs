@@ -29,9 +29,5 @@ namespace interfaceTask
             Console.WriteLine($"Не рассчитав силу нажатия  вы резко вдавливаете клавишу " +
                 $"и пианино издаёт громкий и долгий звук  ");
         }
-        public void Sound()
-        {
-
-        }
     }
 }
