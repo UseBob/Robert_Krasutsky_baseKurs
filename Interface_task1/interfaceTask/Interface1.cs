@@ -10,9 +10,6 @@ namespace interfaceTask
     {
         public string Name { get; set; }
         public string Characteristics { get; set; }
-        public void Play()
-        {
-
-        }
+        public void Play();
     }
 }
