@@ -8,6 +8,8 @@ namespace task2
 {
     internal interface IPrintable
     {
+        public string Title { get; set; }
+        public string Description { get; set; }
         void Print();
     }
 }
