@@ -1,0 +1,23 @@
+﻿using Work_7_1;
+
+Library library = new Library();
+Book fuf = new Book("Fuf");
+Book fif = new Book("Fif");
+Book gora = new Book("Gora");
+library.AddBook(fuf);
+library.AddBook(fif);
+library.AddBook(gora);
+library.FullListBook();
+library.BookInfo(2);
+Reader reader1=new Reader(GenreType.drama,"Bob");
+Reader reader2 = new Reader(GenreType.fiction, "Bill");
+Reader reader3 = new Reader(GenreType.fantastic, "Zak");
+Reader reader4 = new Reader(GenreType.comedy, "Pol");
+List<Reader> readers=new List<Reader>();
+readers.Add(reader1);
+readers.Add(reader2);
+readers.Add(reader3);
+readers.Add(reader4);
+LibraryProvider provider = new LibraryProvider();
+provider.SubscribeToBook(readers);
+provider.AddBook(library.books);
