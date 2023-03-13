@@ -14,14 +14,21 @@ namespace Work_7_2
 
         public double DualStrikeMult { get; set; } = 1.5;
 
-        public Human(bool dualWielding)
+        public Human(bool dualWielding, string unitSex, string unitClass) : base(unitSex, unitClass)
         {
             DualWielding=dualWielding;
+
+            UnitSex = unitSex;
+
+            UnitClass = unitClass;
+
+            UnitRace = "Human";
         }
         public override int Attack()
         {
             DualHit();
             int hit = (int)(BaseDamage * DualStrikeMult);
+            Console.WriteLine($"Противник потерял {hit} жизней");
             return hit;
         }
 

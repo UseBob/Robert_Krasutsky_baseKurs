@@ -13,9 +13,15 @@ namespace Work_7_2
 
         public double ShotMult { get; set; } = 1.3;
 
-        public Dwarf(int bulletCount, double shotMult)
+        public Dwarf(int bulletCount,string unitSex,string unitClass) : base(unitSex, unitClass)
         {
             BulletCount = bulletCount;
+
+            UnitSex = unitSex;
+
+            UnitClass = unitClass;
+
+             UnitRace = "Dwarf"; ;
         }
 
         public override int Attack()

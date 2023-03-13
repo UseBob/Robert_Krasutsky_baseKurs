@@ -25,6 +25,12 @@ namespace Work_7_2
 
         public string UnitMove;
 
+       public Unit(string unitSex, string unitClass)
+        {
+            UnitSex = unitSex;
+            UnitClass = unitClass;
+        }
+
         public void SubscribeToMove(Unit unit)
         {
             MoveForward += unit.Move;

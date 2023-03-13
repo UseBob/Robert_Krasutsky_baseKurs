@@ -13,9 +13,15 @@ namespace Work_7_2
 
         public double HeavyStrikeMult { get; set; }=1.75;
 
-        public Ogre(bool twoHandedWeapon) 
+        public Ogre( bool twoHandedWeapon, string unitSex, string unitClass) : base( unitSex,  unitClass)
         {
             TwoHandedWeapon = twoHandedWeapon;
+
+            UnitSex=unitSex;
+
+            UnitClass=unitClass;
+
+            UnitRace = "Ogre";
         }
         public override int Attack()
         {
