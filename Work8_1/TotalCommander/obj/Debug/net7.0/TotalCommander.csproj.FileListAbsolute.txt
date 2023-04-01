@@ -1,0 +1,17 @@
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\TotalCommander.exe
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\TotalCommander.deps.json
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\TotalCommander.runtimeconfig.json
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\TotalCommander.dll
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\TotalCommander.pdb
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\bin\Debug\net7.0\dz8.dll
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.csproj.AssemblyReference.cache
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.AssemblyInfo.cs
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.csproj.CopyComplete
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.dll
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\refint\TotalCommander.dll
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.pdb
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\TotalCommander.genruntimeconfig.cache
+C:\Users\Мария\source\repos\Work8_1\TotalCommander\obj\Debug\net7.0\ref\TotalCommander.dll
